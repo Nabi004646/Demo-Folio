@@ -19,9 +19,7 @@ Feel free to use this as inspiration or fork it for your own awesome portfolio! 
 
 ## 🚀 Live Preview
 
-[🔗 Click Here to View the Live Demo](#){:target="_blank"}  
-> _(demo-folioo.netlify.app)_
-
+[🔗 Click Here to View the Live Demo](demo-folioo.netlify.app)
 ---
 
 ## 📸 Features
