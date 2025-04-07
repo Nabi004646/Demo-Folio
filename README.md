@@ -20,7 +20,7 @@ Feel free to use this as inspiration or fork it for your own awesome portfolio! 
 ## 🚀 Live Preview
 
 [🔗 Click Here to View the Live Demo](#){:target="_blank"}  
-> _(URL will go here when hosted)_
+> _(demo-folioo.netlify.app)_
 
 ---
 
