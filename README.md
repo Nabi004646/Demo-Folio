@@ -19,7 +19,7 @@ Feel free to **clone, fork, or remix** this portfolio and make it your own! 🔧
 
 ## 🌍 Live Preview
 
-👉 [**Live Demo Here**](https://demo-folioo.netlify.app){:target="_blank"}
+👉 [**Live Demo Here**](https://demo-folioo.netlify.app)
 
 ---
 
