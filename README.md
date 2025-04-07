@@ -1,4 +1,4 @@
-# ✨ Tej Bahadur Saud - Demo Portfolio 💼
+# ✨ Demo Portfolio 💼
 
 Hey there! 👋  
 This is a **Demo Portfolio Website** built for showcasing creativity, frontend skills, and clean web design vibes.  
@@ -46,7 +46,7 @@ Feel free to use this as inspiration or fork it for your own awesome portfolio! 
 
 ## 🧑‍🎨 Credits
 
-Made with ❤️ by **Tej Bahadur Saud**  
+Made with ❤️   
 Feel free to use or remix this template — just don’t forget to give credit! 😉
 
 ![Rocket Launch GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
